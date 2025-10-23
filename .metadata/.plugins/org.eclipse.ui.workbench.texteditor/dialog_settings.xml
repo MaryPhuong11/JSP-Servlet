@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<section name="java.lang.Class">
+		<item key="replaceBarOpen" value="false"/>
+		<list key="findhistory">
+			<item value="listProducts"/>
+			<item value=" return;"/>
+			<item value="            return;"/>
+			<item value="Form"/>
+			<item value="POST"/>
+			<item value="add"/>
+			<item value="a"/>
+			<item value="Dode"/>
+			<item value="public class ProductServlet extends HttpServlet "/>
+			<item value="fas fa-dollar-sign fa-3x mb-3"/>
+			<item value="fas fa-dollar-sign me-1"/>
+			<item value="price-tag"/>
+			<item value="P"/>
+			<item value="price.l"/>
+			<item value="price"/>
+		</list>
+	</section>
+</section>

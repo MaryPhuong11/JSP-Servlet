@@ -1,0 +1,5 @@
+package com.multilang.filter;
+
+public class LanguageFilter {
+
+}
